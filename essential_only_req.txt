@@ -1,0 +1,73 @@
+conda==4.12.0
+conda-build==3.21.8
+conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
+conda-pack @ file:///tmp/build/80754af9/conda-pack_1611163042455/work
+conda-package-handling @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-4sc96bd_/conda-package-handling_1649105290173/work
+conda-repo-cli @ file:///tmp/build/80754af9/conda-repo-cli_1620168426516/work
+conda-token @ file:///tmp/build/80754af9/conda-token_1620076980546/work
+conda-verify==3.4.2
+Cython @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-nzd3q5p8/cython_1647855268284/work
+cytoolz==0.11.0
+ipykernel @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-4yxj69n0/ipykernel_1647009452031/work/dist/ipykernel-6.9.1-py3-none-any.whl
+ipython @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-6azbiq8u/ipython_1649078957462/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1634143127070/work
+isort @ file:///tmp/build/80754af9/isort_1628603791788/work
+itemadapter @ file:///tmp/build/80754af9/itemadapter_1626442940632/work
+itemloaders @ file:///opt/conda/conda-bld/itemloaders_1646805235997/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+jdcal @ file:///Users/ktietz/demo/mc3/conda-bld/jdcal_1630584345063/work
+jupyter @ file:///Users/ktietz/demo/mc3/conda-bld/jupyter_1629146554731/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
+jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1616615302928/work
+jupyter-core @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-anh1svu1/jupyter_core_1647002198153/work
+jupyter-server @ file:///opt/conda/conda-bld/jupyter_server_1644494914632/work
+Markdown @ file:///Users/ktietz/demo/mc3/conda-bld/markdown_1629712599908/work
+MarkupSafe @ file:///Users/ktietz/demo/mc3/conda-bld/markupsafe_1629137411893/work
+matplotlib @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-_3usbnl1/matplotlib-suite_1647506475477/work
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+multidict @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-y0aguug8/multidict_1640703757578/work
+nbclassic @ file:///opt/conda/conda-bld/nbclassic_1644943264176/work
+nbclient @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-08wgx75f/nbclient_1650373566605/work
+nbconvert @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-bbvj0nuy/nbconvert_1649751921251/work
+nbformat @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-vjh9n2f2/nbformat_1649931502895/work
+notebook @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-837tqlch/notebook_1645007402196/work
+numpy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-7fnwlldm/numpy_and_numpy_base_1649786873254/work
+numpydoc @ file:///opt/conda/conda-bld/numpydoc_1643788541039/work
+pandas==1.4.2
+pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+py @ file:///opt/conda/conda-bld/py_1644396412707/work
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+PyQt5==5.15.2
+PyQt5_sip==4.19.25
+PyQtChart==5.15.2
+pyrsistent @ file:///Users/ktietz/demo/mc3/conda-bld/pyrsistent_1628941062930/work
+PySocks @ file:///Users/ktietz/Code/oss/ci_pkgs/pysocks_1626781349491/work
+pytest==7.1.1
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-lsp-black @ file:///tmp/build/80754af9/python-lsp-black_1634232156041/work
+python-lsp-jsonrpc==1.0.0
+python-lsp-server==1.2.4
+python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
+python-snappy @ file:///Users/ktietz/demo/mc3/conda-bld/python-snappy_1629479973765/work
+pytz==2021.3
+pyviz-comms @ file:///tmp/build/80754af9/pyviz_comms_1623747165329/work
+PyWavelets @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_croot-p9yhynit/pywavelets_1648820430806/work
+PyYAML==6.0
+pyzmq @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/pyzmq_1638447141825/work
+QDarkStyle @ file:///tmp/build/80754af9/qdarkstyle_1617386714626/work
+qstylizer @ file:///tmp/build/80754af9/qstylizer_1617713584600/work/dist/qstylizer-0.1.10-py2.py3-none-any.whl
+QtAwesome @ file:///tmp/build/80754af9/qtawesome_1637160816833/work
+qtconsole @ file:///opt/conda/conda-bld/qtconsole_1649078897110/work
+QtPy @ file:///opt/conda/conda-bld/qtpy_1649073884068/work
+queuelib==1.5.0
+
+
+scikit-learn @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-ic3nfbzi/scikit-learn_1642621481325/work
+scipy @ file:///Users/ktietz/ci_310/scipy_1644255974431/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
+prettytable==3.3.0
+xgboost==1.5.0
+
