@@ -6,7 +6,7 @@
 
 ## Project File Struture:
 
-* Root /fldr
+Root /fldr
  * Alpha&Omega.ipynb <---- *Main Jupyter notebook (Forgot to change name)*
  * Assignement - Data Scientist (1).docx <---- *Assessment problem document*
  * Testing_predicitons.csv <---- *Target class outputs of the Test Data*
