@@ -21,8 +21,8 @@ Root /fldr
 ---
 
 ## Data Stats:
-* Train Dataset Shape -> (3909,58)
-* Train Dataset Shape -> (690,58)
+* Train Dataset Shape -> (3910,58)
+* Test Dataset Shape -> (691,57)
 * Dataset is Sparse and High Dimensional
 * Features are highly skewed
 
